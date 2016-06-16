@@ -302,7 +302,16 @@
                     }
         },
                 {
-                    "link": {
+                    
+                    }
+                }
+                    
+        },
+        "silver": {
+            "$type": "array_cols",
+            "$value": [
+                {
+                "link": {
                         "$type": "link",
                         "$value": "http://www.farhom.com/"
                     },
@@ -310,12 +319,7 @@
                         "$type": "image",
                         "$value": "sponsors/farhom.jpg"
                     }
-                }
-                    ]
-        },
-        "silver": {
-            "$type": "array_cols",
-            "$value": []
+                ]
         },
         "bronze": {
             "$type": "array_cols",

@@ -84,7 +84,7 @@
     },
     "countup": {
         "attendees": {
-            "number": 150,
+            "number": 100,
             "unit": "ATTENDEES"
         },
         "hours": {

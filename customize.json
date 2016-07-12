@@ -316,16 +316,7 @@
                         "$value": "sponsors/farhom.jpg"
                     }
                 },
-                {
-                    "link": {
-                        "$type": "link",
-                        "$value": "http://bwdisrupt.businessworld.in/"
-                    },
-                    "image": {
-                        "$type": "image",
-                        "$value": "sponsors/disrupt.png"
-                    }
-                },
+                
                 {
                     "link": {
                         "$type": "link",
